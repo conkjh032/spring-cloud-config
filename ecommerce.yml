@@ -1,5 +1,5 @@
 token:
-  expiration_time: 84000 # 1분 유효
+  expiration_time: 8400000 # 1분 유효
   secret: user_token_ecommerce # 토큰화할 때 사용할 키
 
 gateway:
