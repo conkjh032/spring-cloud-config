@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8400000 # 1분 유효
-  secret: user_token_1 # 토큰화할 때 사용할 키
+  expiration_time: 8600000 # 1분 유효
+  secret: user_token_dev # 토큰화할 때 사용할 키
 
 gateway:
   ip: 192.168.0.8
